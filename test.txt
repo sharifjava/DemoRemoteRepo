@@ -1,2 +1,2 @@
 This is the file test.txt
-
+This is the second line added by user
