@@ -1,2 +1,7 @@
 This is the file test.txt
 This is the second line added by user
+This is the line added in working repository
+jjjjjjjjjjjjjjjjjjjjjjjjjjjj
+jjjjjjjjjjjjjjjjjjjjjjjjjj
+jjjjjjjjjjjjjjjjjjjjjjjjjjjjjkkkkkkkkkkk
+lllllllllllllllllllllllllllllllllll
